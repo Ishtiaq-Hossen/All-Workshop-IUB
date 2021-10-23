@@ -11,4 +11,4 @@ def main():
     avgfunction(sum,numberofStudent)
     print(avg)
 
-main()
+main() #this is for indicating from which function the pogram should start
